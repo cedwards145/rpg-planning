@@ -1,6 +1,8 @@
 # Status
 #### Matt
 
+| Stat | Value |
+| --------------- |
 | HP: | 100 |
 | MP: | 20 |
 | Strength: | 50 |
