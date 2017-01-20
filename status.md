@@ -20,4 +20,4 @@
 
 # Skills
 
-- [Fireball](fireball)
+- [Fireball](skills/fireball)
